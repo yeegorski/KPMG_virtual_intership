@@ -14,3 +14,4 @@ Sprocket Central Pty Ltd, a medium size bikes & cycling accessories has contacte
 * Transactions data in the past year
 
 ## Task 1: Data Quality Assessment
+  An [email draft](https://github.com/yeegorski/KPMG_virtual_intership/blob/main/Task%201.%20Data%20Quality%20Assessment.md) to the client identifying the data quality issues and strategies to mitigate these issues.
